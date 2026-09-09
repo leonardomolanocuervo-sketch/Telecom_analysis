@@ -46,3 +46,11 @@ El análisis se fundamenta en dos conjuntos de datos principales:
 ### Requisitos Previos
 * Python 3.8+
 * Librerías requeridas: pandas, numpy, matplotlib, seaborn
+
+  ### Pasos para Ejecutar
+1. *Clonar el repositorio:*
+   git clone https://github.com/leonardomolanocuervo-sketch/Telecom_analysis.git
+2. *Abrir el archivo:*
+   Abrir S7 Version-Estudiante-Project-ConnectaTel.ipynb en Jupyter Notebook o Google Colab.
+3. *Ejecutar el análisis:*
+   Correr todas las celdas en orden secuencial (Shift + Enter).
